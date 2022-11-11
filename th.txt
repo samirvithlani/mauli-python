@@ -1,0 +1,115 @@
+Programing language :-
+1) machine lang -->
+2)web technology --> django [dropbox,inst]
+3)AL ML -->
+
+compiler --> interpreter -->
+
+blocks  -->
+
+line by line
+
+top to down
+
+scripting language --> prog
+2.x main -->
+main function 3.x
+
+2 type of inputs
+rigid input : -stove,water
+passive input :- masala,noodle
+
+movie ticket:
+rs,
+theater,movie :
+
+variable :- container --> size type
+datatype
+
+python is dynamically typed language:-
+
+.py
+
+database ->
+file
+
+console
+
+data types 0
+1)int    nmric value         4 bytes bits 1 byte 8 bits 32 bits
+
+
+    range
+     32-1    31
+    2      2
+    2147483648 to - 2147483648
+
+    
+
+20 --> implicit type casting
+100
+100
+
+6)long   large nmric value   8 bytes
+
+    8 * 8 = 64 bits
+     63
+    2
+2)float 0.0
+    decimal value
+            4 bytes
+3)str null
+    "name"  4 bytes
+
+4)bool false
+    true false  1 byte   
+
+5)double
+
+        8 bytes
+
+7)unsigned int
+
+        4 bytes
+        2147483648
+8)char
+    1 byte  'c'
+ operators:
+ defination : - symbol which perform some operation
+ type of operators
+    1)arithmetic
+        +,-,*,/, % ,// floor ,**
+        10/3 = 3.3333
+        10//3 = 3
+
+    10*2 = 20
+    10**2 = 100
+
+    2)logical
+        and,or,not
+    3)relational
+        <,>,<=,>=,==,!=
+    4)assignment
+        =,+=,-=,*=,/=,%=,//=,**=
+    5)bitwise
+        
+    6)membership
+        in,not in
+    7)identity
+        is,is not
+    8)ternary
+        ?:
+    
+// no1 > no2 
+decision making statement
+if else
+
+if condition:
+    statement
+else:
+    statement
+
+
+
+loops
+    
