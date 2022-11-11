@@ -1,0 +1,8 @@
+5 subject
+find per
+
+if per > 80 A
+if per >70 b
+if per >60 c
+if per >50 d
+fail
