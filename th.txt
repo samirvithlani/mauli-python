@@ -91,7 +91,7 @@ data types 0
         <,>,<=,>=,==,!=
     4)assignment
         =,+=,-=,*=,/=,%=,//=,**=
-    5)bitwise
+    
         
     6)membership
         in,not in
