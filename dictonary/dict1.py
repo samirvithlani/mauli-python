@@ -15,8 +15,6 @@ key = data.keys()
 print(key)
 
 
-
-
 x = data.popitem()
 print(x)
 
